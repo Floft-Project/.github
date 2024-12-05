@@ -1,5 +1,7 @@
 ## 👋 Welcome to the Floft project repository!
 
+![header](https://floft.app/f-top.png)
+
 ## 💫 What is the Floft Project?
 <strong> "Floft is a browser that seeks to strike a balance between diversity, privacy and web openness."</strong>
 
